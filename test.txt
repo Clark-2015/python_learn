@@ -1,0 +1,6 @@
+hello , this content write by python code...
+wow~, this is amazing...
+this is append content
+surjuest to use append mode
+this is append content
+surjuest to use append mode
